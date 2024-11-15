@@ -118,7 +118,7 @@ const Home = () => {
                   <div className="p-6">
                     <h3 className="text-xl font-semibold mb-2">{project.title}</h3>
                     <p className="text-gray-600 mb-4">{project.description}</p>
-                    <Button variant="link" className="text-primary p-0">
+                    <Button variant="link" className="text-white p-0">
                       Learn More <ArrowRight className="ml-2 h-4 w-4" />
                     </Button>
                   </div>

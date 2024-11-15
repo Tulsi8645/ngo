@@ -112,7 +112,7 @@ const Projects = () => {
                       </span>
                     </div>
                     <p className="text-gray-600 mb-4">{project.description}</p>
-                    <Button variant="link" className="p-0">
+                    <Button variant="link" className="p-0 text-white">
                       Learn More <ArrowRight className="ml-2 h-4 w-4" />
                     </Button>
                   </div>
